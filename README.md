@@ -4,7 +4,7 @@ This repository is intended for **Docker users**.
 Below is the setup process to prepare the environment for evaluation.
 
 Confirmed to work with
-`docker pull nvidia/cuda:11.6.1-cudnn8-runtime-ubuntu20.04`
+`docker pull nvidia/cuda:11.6.1-cudnn8-devel-ubuntu20.04`
 ✅ python3.8
 
 ---
