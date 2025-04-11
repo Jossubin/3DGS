@@ -13,20 +13,15 @@ Confirmed to work with
 
 Run the following commands to set up the required environment dependencies.
 ```bash
+# git clone
+git clone https://github.com/SJpark02/3dgs-eval.git
+git clone https://github.com/graphdeco-inria/gaussian-splatting --recursive
+
 # Permission
 chmod +x setup_env.sh
 
 # Run
 ./setup_env.sh
-```
-
-</br>
-
-## Cloning the Repository
-```shell
-git clone https://github.com/SJpark02/3dgs-eval.git
-# HTTPS
-git clone https://github.com/graphdeco-inria/gaussian-splatting --recursive
 ```
 
 </br>
