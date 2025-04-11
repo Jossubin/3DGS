@@ -24,6 +24,7 @@ chmod +x setup_env.sh
 
 ## Cloning the Repository
 ```shell
+git clone https://github.com/SJpark02/3dgs-eval.git
 # HTTPS
 git clone https://github.com/graphdeco-inria/gaussian-splatting --recursive
 ```
