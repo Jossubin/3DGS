@@ -1,1 +1,2 @@
-# 3dgs-eval
+# 3DGS(Gaussian Splatting)
+
